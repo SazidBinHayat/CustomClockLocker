@@ -2,6 +2,7 @@ package brpack;
 
 public class B {
     int id ;
+    string name;
 
     public int getId() {
         return id;
