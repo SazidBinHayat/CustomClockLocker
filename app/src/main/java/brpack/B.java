@@ -2,7 +2,8 @@ package brpack;
 
 public class B {
     int id ;
-    string name;
+    float p;
+
 
     public int getId() {
         return id;
